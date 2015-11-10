@@ -15,7 +15,8 @@ Public Class Form1
         Me.lblTotal.Text = "Total: $" & total
     End Sub
     '*************************************************************************
-    'TotalDollars
+    'TotalDollars 
+    'Adds together coin values for number of coins sent.
     '
     'post:  returns TotalDollars -- the total amount of coinage in dollars.
     '*************************************************************************
