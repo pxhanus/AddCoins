@@ -131,7 +131,7 @@ Partial Class Form1
         Me.Controls.Add(Me.lblDimes)
         Me.Controls.Add(Me.lblQuarters)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Add Coins"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
